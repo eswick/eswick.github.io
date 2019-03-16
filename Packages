@@ -1,14 +1,14 @@
 Package: com.eswick.harbor2
-Version: 1.0.0-83+debug
+Version: 1.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: Evan Swick
 Installed-Size: 224
 Depends: mobilesubstrate
-Filename: debs/com.eswick.harbor2_1.0.0-83+debug_iphoneos-arm.deb
-Size: 33590
-MD5sum: 5085a064f873a55f974a8520a981e267
-SHA1: b201b1972c2daf73d8edd9733adf7ffd546dd0b8
-SHA256: e2bbd3b3b05c5fa35b36c76a658033a731d574c30f1746147b5fe96eb3d2bb75
+Filename: debs/com.eswick.harbor2_1.0.1-1+debug_iphoneos-arm.deb
+Size: 33960
+MD5sum: dbcb2cd6c18c0686fed1544715110313
+SHA1: eccb7c5b638298f2b8d83880bf32b5f88d6c253b
+SHA256: d7694b4c2a48081ed3813c9239cb864d75718af94ef41c6475afd8ccfba74618
 Section: Tweaks
 Description: macOS-style Dock
 Author: Evan Swick
